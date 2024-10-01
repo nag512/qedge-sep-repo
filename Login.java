@@ -19,3 +19,10 @@ class Main {
     System.out.println("Sum is: " + result);
   }
 }
+
+#WEBHOOK JOB DEMO
+   public static int square(int num) {
+
+    // return statement
+    return num * num;
+  }
